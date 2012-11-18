@@ -23,8 +23,3 @@ Other good references
 Vim Essential Plugins(Video Turtorial): http://net.tutsplus.com/sessions/vim-essential-plugins/?search_index=5
 
 ![Vim Visual Command MindMap](http://zhangchiqing-wordpress.stor.sinaapp.com/uploads/2012/11/vim.jpg "Vim Visual Command MindMap")
-
-License
--------
-
-This vimrc project is released under [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US).
