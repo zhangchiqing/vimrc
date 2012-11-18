@@ -20,7 +20,7 @@ PLUGINS
 
 Other good references
 -------
-![Vim Essential Plugins](http://net.tutsplus.com/sessions/vim-essential-plugins/?search_index=5 "Vim Essential Plugins")
+Vim Essential Plugins(Video Turtorial): http://net.tutsplus.com/sessions/vim-essential-plugins/?search_index=5
 
 ![Vim Visual Command MindMap](http://zhangchiqing-wordpress.stor.sinaapp.com/uploads/2012/11/vim.jpg "Vim Visual Command MindMap")
 
